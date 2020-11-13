@@ -5,6 +5,7 @@ Le but du jeu est simple, vous avez 3 vies au début et vous devez visez et touc
 Attention vous perdez une vie si la balle ne touche pas un cube.
 Il y a 3 niveaux dans le jeu, quand vous touchez un cube vous passer au niveau suivant.
 Les cubes apparaissent aléatoirement sur le terrain.
+Le tirer la balle, vous devez cliquer avec la souris et la balle se dirigera également en fonction de la jauge de puissance en haut à gauche.
 
 
 
