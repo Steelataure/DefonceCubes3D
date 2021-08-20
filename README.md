@@ -14,7 +14,7 @@ Ce jeu m'a permis de maîtriser un peu plus le langage Java
 
 ## Comment y jouer ?
 
-Télécharger le fichier compressé [ici](https://github.com/Steelataure/DefonceCubes3D/releases/tag/DefonceCube3D), ensuite il suffit de l'extraire et de lancer l'exécutable (.exe)
+Télécharger le fichier compressé [ici](https://zupimages.net/up/21/33/6cg1.png), ensuite il suffit de l'extraire et de lancer l'exécutable (.exe)
 
 ![DefonceCubes](https://user-images.githubusercontent.com/59340020/99098233-02339d00-25d9-11eb-8d49-aebeb44a79b3.PNG)
 
