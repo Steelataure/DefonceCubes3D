@@ -5,12 +5,9 @@
 
 **Jeu 3D codé en Java avec Processing**  
 
-Le but du jeu est tirer sur les cubes avec la balle, il y a une jauge de puissance permettant de jauger la puissance lancé dans la balle ainsi
+Le but du jeu est tiré sur les cubes avec la balle, il y a une jauge de puissance permettant de jauger la puissance lancée dans la balle ainsi
 qu'une partie de la direction.  
-Les cubes sont générés aléatoirement sur le terrain, il y a 3 niveaux : `facile`, `moyen`, `difficile`
-
-Ce jeu m'a permis de maîtriser un peu plus le langage Java
-
+Les cubes sont générés aléatoirement sur le terrain, il y a 3 niveaux : `facile`, `moyen` et `difficile`
 
 ## Comment y jouer ?
 
